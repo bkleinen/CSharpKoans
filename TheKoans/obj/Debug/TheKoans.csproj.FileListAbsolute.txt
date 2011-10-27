@@ -1,0 +1,7 @@
+D:\development\c\CSharpKoans\TheKoans\bin\Debug\TheKoans.dll
+D:\development\c\CSharpKoans\TheKoans\bin\Debug\TheKoans.pdb
+D:\development\c\CSharpKoans\TheKoans\obj\Debug\ResolveAssemblyReference.cache
+D:\development\c\CSharpKoans\TheKoans\obj\Debug\TheKoans.dll
+D:\development\c\CSharpKoans\TheKoans\obj\Debug\TheKoans.pdb
+D:\development\c\CSharpKoans\TheKoans\bin\Debug\KoanHelpers.dll
+D:\development\c\CSharpKoans\TheKoans\bin\Debug\KoanHelpers.pdb
